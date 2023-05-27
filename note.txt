@@ -1,0 +1,24 @@
+Những thành phần thường gặp trên giao diện website
+    1. Header
+    2. Navigation(Điều hướng)
+    3. Breadcumb: 1 tập hợp những liên kết giúp người dùng biết vị trí của mình trong cấu trúc site
+    4. Sidebar: Thanh menu dọc trái hoặc phải
+    5. Slider: Thiết kế dạng thanh trượt giúp người dùng dễ dàng thao tác
+    6. Banner 
+    7. Content: Nội dung
+    8. Footer: chân trang
+
+1. Phân tích
+    1. Header, Navigation
+    2. Slider
+    3. Content
+        1. About
+        2. Contact
+        3. Image
+        4. Footer
+    4. Footer
+
+2. Responsive
+    PC: >= 1024px
+    Tablet: >=740px & < 1024px
+    Mobile: <740px
